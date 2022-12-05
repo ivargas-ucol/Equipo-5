@@ -101,7 +101,7 @@ Las librerías de Python son amplias y cuentan con gran cantidad de producciones
 
 Además, dependiendo del sistema operativo que tengas, puedes conseguir diferentes funciones de cada una de las librerías de Python. Por ejemplo, para el sistema Windows se incluye la biblioteca estándar completa junto con componentes adicionales.
 
-Un plus para las librerías de Python es que cuentan con una colección de componentes como, por ejemplo, programas individuales, módulos, paquetes, frameworks, aplicaciones y más funciones que puedes encontrar en [Python Package Index](https://pypi.org/)..
+Un plus para las librerías de Python es que cuentan con una colección de componentes como, por ejemplo, programas individuales, módulos, paquetes, frameworks, aplicaciones y más funciones que puedes encontrar en Python Package Index.
 
 Adentrandonos a las librerías que utilizaremos son las siguientes:
 
