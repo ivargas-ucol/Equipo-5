@@ -93,6 +93,7 @@ Figura #8. Procesamiento de coordenadas para la obtención de un mapa
 ![Aspose Words 57d98f14-f4d1-4713-95e2-fdc5281b9e14 009](https://user-images.githubusercontent.com/119512794/205752708-73c27ac5-5655-4136-979e-d0d3f875e64e.png)
 
 Figura #9. Resultado del mapa con las coordenadas de la nivelación.
+
 - # **Manejo de datos**
 Este concepto hace referencia al conjunto de implementos funcionales que te ayudarán a codificar todo este lenguaje de programación para crear una interfaz independiente. 
 
