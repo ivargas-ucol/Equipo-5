@@ -1,3 +1,20 @@
+![logo_negro nn](https://user-images.githubusercontent.com/119512794/206005340-26b58df8-8820-459d-b58f-ac8027d1a4b0.png)
+![logoficnnn](https://user-images.githubusercontent.com/119512794/206005583-2faf8b1c-eb29-4dec-ac67-b31e0d8c6703.jpg)
+
+Universidad de Colima 
+
+Facultad de Ingeniería Civil
+
+Materia: Programación II
+
+Equipo #5
+
+-Tejeda Campos Dayra Nataly 
+
+-Vargas Méndez Ilse Lilith
+
+06/Dic/2022
+
 # **Código que facilita los cálculos de una nivelación topográfica**
 
 *Code to facilitate topographic leveling calculations*
